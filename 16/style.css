@@ -1,0 +1,20 @@
+.box{
+    background-color: darkcyan;
+    height: 40px;
+    overflow: hidden;
+    width: 150px;
+    float: left;
+    transition: all 0.8s;
+    border-radius: 15%;
+}
+.box:hover{
+    height: 400px;
+    width: 200px;
+}
+body{
+    background-color: darksalmon;
+}
+.box-g{
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,199 @@
+.box1{
+    background-color: darkred;
+    height: 100px;
+    width: 250px;
+    overflow: hidden;
+    transition: 3s ;
+}
+.box1:hover{
+    height: 150px;
+    width: 300px;
+    background-color: darkseagreen;
+;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: darkslategrey;
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+a:hover{
+    color: deepskyblue;
+    background-color: forestgreen;
+}
+li:hover{
+    color:firebrick;
+    background-color: gold;
+}
+.box2{
+    background-color: cadetblue;
+    height: 100px;
+    width: 170px;
+    transition: 3s ;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.box2:hover{
+    height: 150px;
+    width: 300px;
+    background-color:dimgrey;
+    ;
+}
+.box3{
+    background-color: darksalmon;
+    height: 100px;
+    width: 250px;
+    overflow: hidden;
+    transition: 3s ;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.box3:hover{
+    height: 150px;
+    ;
+    width: 300px;
+    background-color:chocolate; 
+}
+.box4{
+    margin-top: 10px;
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 325px;
+    overflow: hidden;
+    transition: 3s;
+    overflow: hidden;
+}
+.box4:hover{
+    ;
+    height: 150px;
+    width: 300px;
+    background-color:darkolivegreen; 
+}
+.box5{
+    background-color: dodgerblue;
+    height: 100px;
+    width: 300px;
+    overflow: hidden;
+    margin-top: 10px;
+    transition: 3s ;
+}
+.box5:hover{
+    height: 150px;
+    ;
+    width: 300px;
+    background-color:darkcyan; 
+}
+.box6{
+    background-color: navy;
+    height: 100px;
+    margin-top: 10px;
+    width: 250px;
+    overflow: hidden;
+    transition: 3s;
+}
+.box6:hover{
+    height: 100px;
+    width: 300px;
+    background-color:mediumspringgreen; 
+}
+.box7{
+    background-color: lime;
+    height: 100px;
+    width: 250px;
+    overflow: hidden;
+    margin-top: 10px;
+    transition: 3s ;
+}
+.box7:hover{
+    height: 150px;
+    ;
+    width: 300px;
+    background-color:olive; 
+}
+.box8{
+    background-color: palegreen;
+    margin-top: 10px;
+    height: 100px;
+    width: 250px;
+    overflow: hidden;
+    transition: 3s 
+}
+body{
+    background-color: moccasin;
+}
+.box8:hover{
+    ;
+    height: 150px;
+    width: 300px;
+background-color: tomato;
+}
+.box9{
+    height: 100px;
+    margin-top: 10px;
+    width: 310px;
+    background-color: yellowgreen;
+    transition: 3s;
+}
+.box9:hover{
+    height: 150px;
+    ;
+    width: 350px;
+    background-color: crimson;
+}
+.box10{
+ height: 100px;
+ width: 500px;
+ margin-top: 10px;
+ background-color: darkgoldenrod;
+ transition: 3s;
+}
+.box10:hover{
+height: 150px;
+width: 310px;
+;
+background-color:red;
+}
+input{
+    border-color: forestgreen;
+    box-shadow: 10px 10px black;
+}
+.bbox1{
+    width: 300px;
+    height: 600px;
+    background-color: seagreen;
+    overflow: hidden;
+transition: 3s;
+}
+.bbox1:hover{
+    margin-left: 45%;
+    width: 400px;
+    height: 700px;
+}
+.bbox2{
+    width: 300px;
+    height: 500px;
+    background-color: orange;
+    overflow: hidden;
+transition: 3s;
+}
+.bbox2:hover{
+    margin-left: 45%;
+    width: 400px;
+    height: 700px;
+}
+.bbox3{
+    width: 300px;
+    height: 600px;
+    background-color: darkred;
+    overflow: hidden;
+transition: 3s;
+}
+.bbox3:hover{
+    margin-left: 45%;
+    width: 400px;
+    height: 700px;
+}

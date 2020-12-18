@@ -1,0 +1,8 @@
+body{background-color: darkslategray;}
+h1{font-size: 50px;}
+h2{font-size: 30px;}
+li{font-size: 20px;
+color: goldenrod;}
+a{color: aqua;}
+img{border: 20px solid yellowgreen;
+margin: auto; display: block; width: 200px  ,; border-radius: 200px; }
