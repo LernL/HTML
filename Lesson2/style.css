@@ -1,0 +1,15 @@
+body {
+    background-color: cadetblue;
+}
+h1 {font-size: 50px;}
+h2 {font-size: 35px;}
+li {font-size: 22px;}
+li {color: chocolate;}
+a {color: crimson;
+text-decoration: darkgoldenrod;}
+img {border:20px solid navy;
+margin: auto;
+display: block;
+border-radius: 400px;
+width: 200px;
+height: 200px;}

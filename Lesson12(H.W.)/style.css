@@ -1,0 +1,142 @@
+.box1{
+    background-color: darkred;
+    height: 100px;
+    width: 250px;
+    overflow: hidden;
+    transition: 0.8s ;
+}
+.box1:hover{
+    height: 400px;
+    width: 400px;
+    background-color: darkseagreen;
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color: darkslategrey;
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+a:hover{
+    color: deepskyblue;
+    background-color: forestgreen;
+}
+li:hover{
+    color:firebrick;
+    background-color: gold;
+}
+.box2{
+    background-color: cadetblue;
+    height: 120px;
+    width: 150px;
+    transition: 1.2s ;
+}
+.box2:hover{
+    height: 100px;
+    width: 250px;
+    background-color:dimgrey;
+}
+.box3{
+    background-color: darksalmon;
+    height: 50px;
+    width: 250px;
+    overflow: hidden;
+    transition: 3s ;
+}
+.box3:hover{
+    height: 100px;
+    width: 200px;
+    background-color:chocolate; 
+}
+.box4{
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 325px;
+    overflow: hidden;
+    transition: 0.1s;
+}
+.box4:hover{
+    height: 100px;
+    width: 200px;
+    background-color:darkolivegreen; 
+}
+.box5{
+    background-color: dodgerblue;
+    height: 100px;
+    width: 300px;
+    overflow: hidden;
+    transition: 2.5s ;
+}
+.box5:hover{
+    height: 100px;
+    width: 200px;
+    background-color:darkcyan; 
+}
+.box6{
+    background-color: navy;
+    height: 300px;
+    width: 250px;
+    overflow: hidden;
+    transition: 0.8s;
+}
+.box6:hover{
+    height: 100px;
+    width: 400px;
+    background-color:mediumspringgreen; 
+}
+.box7{
+    background-color: lime;
+    height: 400px;
+    width: 250px;
+    overflow: hidden;
+    transition: 0.8s ;
+}
+.box7:hover{
+    height: 100px;
+    width: 400px;
+    background-color:olive; 
+}
+.box8{
+    background-color: palegreen;
+    height: 100px;
+    width: 250px;
+    overflow: hidden;
+    transition: 1.8s 
+}
+body{
+    background-color: moccasin;
+}
+.box8:hover{
+    height: 300px;
+    width: 140px;
+background-color: tomato;
+}
+.box9{
+    height: 350px;
+    width: 200px;
+    background-color: yellowgreen;
+    transition: 0.5s;
+}
+.box9:hover{
+    height: 100px;
+    width: 150px;
+    background-color: crimson;
+}
+.box10{
+ height: 500px;
+ width: 500px;
+ background-color: darkslategrey;
+ transition: 10s;
+}
+.box10:hover{
+height: 600px;
+width: 600px;
+background-color: forestgreen;
+}
+input{
+    border-color: forestgreen;
+    box-shadow: 10px 10px black;
+}

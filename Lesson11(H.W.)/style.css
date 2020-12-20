@@ -1,0 +1,22 @@
+.box-box {
+    display: flex;
+}
+.b{
+    background-color: red;
+    height: 200px;
+    width: 400px;
+    margin: 30px 30px;
+    display: flex;
+}
+img{
+    height: 350px;
+    width: 200px;
+    position: relative;
+    display: block;
+    bottom: 87px;
+    right: 32px;
+}
+.text{
+    font-size: 10px;
+    color: white;
+}

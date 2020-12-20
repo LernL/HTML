@@ -1,0 +1,14 @@
+body {
+    background-color: darkslategray;
+}
+table{
+    border: gold;
+    border: 2px inset goldenrod;
+}
+tr {
+    background-color: olivedrabq;
+}
+.a {
+background-color: olivedrab;
+color: darkslategrey  ;
+}
