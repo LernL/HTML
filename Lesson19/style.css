@@ -1,0 +1,44 @@
+.fab{   
+    font-size: 75px;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: white;
+    border-radius: 8px;
+    height: 75px;
+    position: relative;
+    left: 45%;
+    transition: 0.8s;
+}
+form{
+    left: 30%;
+    position: relative;
+}
+body{
+    background-color: cadetblue;
+}
+.button{
+    position: relative;
+    left: 40%;
+    background-color: aqua;
+    border-color: aqua;
+    color: white;
+    width: 150px;
+    border-radius: 5px;
+}
+.text:active{
+    border-color: #285AEB;
+    border-radius: 5px;
+}
+label:hover{
+    text-decoration: underline;
+}
+.fab:hover{
+    font-size: 150px;
+    height: 145px;
+}
+.button:hover{
+    text-decoration: underline;
+}
+fieldset{
+    border-radius: 8px;
+    width: 600px;   
+}
