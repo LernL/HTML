@@ -5,24 +5,23 @@
     border-radius: 8px;
     height: 75px;
     position: relative;
-    left: 45%;
+    left: 40%;
     transition: 0.8s;
-}
-form{
-    left: 30%;
-    position: relative;
+    bottom: 35px;
 }
 body{
-    background-color: cadetblue;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
 }
 .button{
     position: relative;
     left: 40%;
-    background-color: aqua;
-    border-color: aqua;
+    background-color:cornflowerblue;
+    border-color: cornflowerblue;
     color: white;
     width: 150px;
-    border-radius: 5px;
+    border-radius: 15px;
 }
 .text:active{
     border-color: #285AEB;
@@ -39,6 +38,22 @@ label:hover{
     text-decoration: underline;
 }
 fieldset{
-    border-radius: 8px;
-    width: 600px;   
+    width: 400px;
+    border-color:gray ;   
+}
+input{
+    border-color: gray;
+}
+.Instagram1{
+    padding-left: 8%;
+}
+a{
+    text-decoration: none;
+}
+.Instagram2{
+    width: 500px;
+    height: 560px;
+}
+.form2{
+    padding-top: 20px;
 }
