@@ -1,0 +1,66 @@
+/* body{
+    margin: 0;
+    padding: 0;
+}
+.Nav{
+    width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}  */
+* {
+    margin: 0;
+    padding: 0;
+}
+.Box1{
+    width: 100%;
+    background-color: dimgray;
+}
+div ul{
+    list-style: none;
+    background-color: black;
+    position: relative;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    transition: all 5s;
+}
+.Box1 > ul > li{
+    float: left;
+}
+div ul::after{
+    content: "";
+    display: block;
+    clear: both;
+}
+div ul li a{
+    display: inline-block;
+    padding: 10px 50px;
+    width: 125px;
+    color: white;
+    text-decoration: none;
+}
+div ul li a:hover{
+    background-color: #950740;
+}
+div ul ul{
+    display: none;
+    position: absolute;
+}
+div li:hover > ul{
+    display: block;
+}
+body{
+    background-color:dimgrey ;
+}
