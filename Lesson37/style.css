@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+}
+.header{
+    top: 65px;
+    height: 403px;
+    width: 327px;
+    left: 750px;
+    position: relative;
+}
+h1{
+    text-align: center;
+    font-family: 'Syne Mono', monospace;
+    font-size: 52px;
+    color: #FFFFFF;
+}
+header{
+    background: url(./img/Layer\ 7@1X.png) no-repeat;
+    background-size: 100%;
+}
+.ahead{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 30px;
+}
+.head2{
+    margin-top: 47px;
+    padding-left: 36%;
+}
+.head3{
+    margin-top: 79px;
+}
+h2{
+    font-size: 53px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+}
+.head4{
+    margin-top: 43px;
+    display: flex;
+    padding-left: 33%;
+}   
+h3{
+    font-size: 15px;
+    font-family: 'PT Sans', sans-serif;
+    color: #FFFFFF;
+}
+.button{
+    color: #F5F5F5;
+    text-decoration: none;
+}
+h4{
+    background-color: #50C3AF;
+    border-radius: 10px;
+    font-size: 15px;
+    text-align: center;
+    height: 40px;
+    padding-top: 19px;
+    font-family: 'PT Sans', sans-serif;  
+}
+.head5{
+    margin-top: 82px;
+    margin-left: 39%;
+    margin-right: 40%;
+    height: 100px;
+    padding-bottom: 139px;
+}
+.fas{
+    font-size: 45px;
+    padding-top: 62px;
+    padding-right: 159px;
+    color: #7AD7DF;
+}
+.far{
+    font-size: 45px;
+    padding-top: 62px;
+    padding-right: 140px;
+    color: #7AD7DF;
+}
+.icons{
+    padding-left: 370px;
+}
+.dtext1{
+    display: flex;
+    padding-top: 34px;  
+    padding-left: 350px;  
+}
+.ttext1{
+    color: #40474E;
+    font-size: 16px;
+    padding-right: 114px;
+    font-family: 'PT Sans', sans-serif;  
+
+}
+.ttext2{
+    color: #787B80;
+    font-size: 14px;
+    padding-right: 30px;
+    font-family: 'PT Sans', sans-serif;  
+
+}
+.dtext2{
+    display: flex;
+    padding-top: 48px;  
+    padding-left: 320px;
+    width: 55%;  
+}
+.micons{
+    width: 100%;
+    background-color: #EAEAEB;
+    height: 287px;
+}
+.mpng{
+    width: 100%;
+}
+.png{
+    padding-top: 64px;
+    padding-left: 320px;
+    display: flex;
+}
+.pict{
+    margin-right: 58px;
+}
+.ttext3{
+    color: #40474E;
+    font-size: 18px;
+    font-family: 'PT Sans', sans-serif;
+    padding-right: 120px ;
+}
+.dtext3{
+    display: flex;
+    padding-left: 320px;
+    padding-top: 42px;
+}
+.dtext4{
+    display: flex;
+    padding-left: 320px;
+    padding-top: 56px;
+    width: 55%; 
+}
+.ttext4{
+    color: #787B80;
+    font-size: 14px;
+    font-family: 'PT Sans', sans-serif;
+    padding-right: 120px ;
+}
+.tbutton{
+    font-size: 14px;
+    font-family: 'PT Sans', sans-serif;
+    color: #F5F5F5;  
+    background-color: #50C3AF;
+    border-radius: 10px;
+    text-align: center;
+    height: 36px;
+    width: 99px;
+    padding-top: 6px;
+}
+.abutton{
+    color: #F5F5F5;
+    text-decoration: none;
+    padding-right: 260px;
+}
+.dbutton{
+    display: flex;
+    margin-left: 340px;
+    padding-top: 33px;
+}
