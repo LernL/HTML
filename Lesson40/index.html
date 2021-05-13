@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script src="./aframe.min.js"></script>
+    <a-scene>
+        <a-entity id="cameraWrapper" position="0 30 100">
+            <a-camera></a-camera>      
+        </a-entity>
+        <a-sky src="./Img/загружено.png"></a-sky>
+        <a-entity>
+            <a-sphere position="0 7 -50" src="./8k_jupiter.jpg" radius="20"></a-sphere>
+            <a-ring src="./unnamed.jpg" rotation="-80 0 0" radius-inner="23" radius-outer="30" position="0 7 -50"></a-ring>
+            <a-animation easing="linear" attribute="rotation" dur="10000" from="0 0 0" to="0 360 0" repeat="indefinite" delay="0"></a-animation>
+        </a-entity>
+    </a-scene>   
+</body>
+</html>

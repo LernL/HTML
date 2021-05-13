@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+}
+.box{
+    display: flex;
+}
+.card{
+    background-image: url(./img/photo_2021-04-25_16-00-52.jpg);
+    width: 400px;
+    height: 240px;
+    margin-top: 400px;
+    border-radius: 8%;
+    margin-left: 100px;
+}
+img{
+    width: 70px;
+    height: 50px;
+    padding-top: 12px;
+    padding-left: 10px;
+}
+.infc1{
+    display: flex;
+}
+.textc1{
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    padding-left: 170px;
+    font-size: 27px;
+}
+.inpc{
+    border-radius: 15%;
+    border: 1px solid #FFFFFF;
+    margin-top: 25px;
+    margin-left: 10px;
+    width: 300px;
+    background: transparent;
+    height: 50px;
+}
+.textc2{
+    color: gray;
+    font-family: 'Roboto',sans-serif;
+    padding-top: 40px;
+    padding-left: 10px;
+    font-size: 14px;
+}
+.textc3{
+    color: #FFFFFF;
+    font-family: 'Roboto',sans-serif;
+    padding-left: 10px;
+    font-size: 20px;
+    padding-top: 5px;
+}
+.infc2:first-child{
+    margin-right: 110px;
+}
+.textc3#txtc1{
+    font-size: 23px;
+}
+.ank{
+    background-color: #FFFFFF;
+    width: 420px;
+    height: 500px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+body{
+    background-color: cornflowerblue;
+}
+.lbl1{
+    color: gray;
+    font-family: 'Roboto',sans-serif;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 150px;
+}
+.ank{
+    display: block;
+}
+label, input, select{
+    display: block;
+}
+.cardinf{
+    margin-left:35px;
+    width: 320px;
+    height: 40px;
+    border: 1px solid gray;
+    color: gray;
+    font-family: 'Roboto',sans-serif;
+    font-size: 20px;
+}
+.lbl1#lb1{
+    padding-top: 30px;
+}
+.lbl1#lb2{
+    padding-top: 40px;
+    margin-left: 40px;
+    text-align: start;
+}
+.infa3{
+    display: block;
+}
+.dat{
+    width: 100px;
+    height: 50px;
+    border: 1px solid gray;
+}
+.infa2{
+    display: flex;
+    height: 185px;
+}
+.dat#sel1{
+    margin-top: 64px;
+    margin-left: 30px;
+}
+.cardinf2{
+    width: 100px;
+    height: 50px;
+    border: 1px solid gray;
+}
+.lbl2{
+    padding-top: 40px;
+    color: gray;
+    font-family: 'Roboto',sans-serif;
+    font-size: 20px;
+    padding-left: 20px;
+  
+}

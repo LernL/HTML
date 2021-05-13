@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+}
+.body1{
+    background-color: #E5E5E5;
+    width: 100%;
+    height: 100%;
+}
+.body2{
+    padding-left: 39px;
+    padding-top: 35px;
+    width: 100%;
+    height: 65px;
+    display: flex;
+}
+.fas{
+    font-size: 24px;
+    color: #2D3E50;
+}
+.logo{
+    display: flex;
+    padding-top: 22px;
+    padding-left: 32px;
+    background-color: #FFFFFF;
+    width: 200px;
+}
+h1{
+    font-size: 22px;
+    font-family: 'Lato', sans-serif;
+    color: #2D3E50;
+    padding-left: 20px;
+}
+.a1{
+    text-decoration: none;
+}
+.logo1{
+    display: flex;
+    padding-top: 20px;
+    background-color: #ECF0F1;
+    width: 200px;
+    padding-left: 20px;
+}
+.far{
+    font-size: 24px;
+    color: #2D3E50;
+}
+.logo:last-child{
+    padding-left: 251px;
+    padding-top: 12px;
+}
+.inp1{
+    width: 146px;
+    height: 20px;
+    margin-top: 7px;
+    margin-left: 4px;
+}
+.search{
+    background-color: #ECF0F1;
+    height: 42px;
+    width: 188px;
+}
+.body3{
+    padding-top: 31px;
+    width: 100%;
+    padding-left: 39px;
+    display: flex;
+}
+.acc{
+    background-color: #FFFFFF;
+    width: 301px;
+    margin-right: 18px;
+}
+h2{
+    font-family: 'Lato', sans-serif;
+    color: #2D3E50;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 31px;
+}
+.inp2{
+    border-color: aquamarine;
+    margin-left: 28px;
+    margin-top: 32px;
+    width: 200px;
+    height: 20px;
+}
+.inp3{
+    border-color: gray;
+    margin-left: 28px;
+    margin-top: 15px;
+    width: 200px;
+    height: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+h3{
+    background-color: #34495E;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 34px;
+    color: #FFFFFF;
+    height: 46px;
+    padding-top: 20px;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+h4{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #2D3E50;
+    text-align: center;
+    padding-top: 20px;
+}
+.twit1{
+    display: flex;
+    color: #FFFFFF;
+    background-color: #2DAAE4;
+    height: 51px;
+    margin-top: 27px;
+}
+.fab#f2{
+    padding-top: 15px;
+    padding-left: 64px;
+    font-size: 30px;
+}
+h5{
+    padding-top: 20px;
+    padding-left: 8px;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+h3:last-child{
+    margin-left: 80px;
+    margin-right: 80px;
+
+}
+.Aacc1{
+    background-color: #FFFFFF;
+    width: 301px;
+    margin-right: 18px;
+    height: 229px;
+}
+.acc1{
+    width: 301px;
+    margin-right: 18px;
+}
+.Aacc2{
+    padding-top: 28px;
+    display: flex;
+}
+.fab#f1{
+    padding-left: 31px;
+    padding-top: 25px;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.intern{
+    width: 76px;
+    height: 111px;
+    background-color: #4FC4F6;
+    color: #FFFFFF;
+}
+.text1{
+    padding-top: 37px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    padding-left: 23px;
+}
+.intern:first-child{
+    background-color: #3468AF;
+}
+.fab#f3{
+    padding-left: 26px;
+    padding-top: 25px;
+    font-size: 30px;
+}
+.fab#f4{
+    padding-left: 26px;
+    padding-top: 25px;
+    font-size: 30px;
+}
+.intern#int1{
+    background-color: #E64C65;
+}
+.far#f5{
+    padding-left: 26px;
+    padding-top: 25px;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+.intern#int2{
+    background-color: #334A5C;
+}
+.Aacc3{
+    background-color: #1BBC9B;
+    height: 195px;
+    width: 302px;
+    position: absolute;
+}
+.ellipse{
+    border-radius: 50%;
+    width: 82px;
+    height: 84px;
+    background-color: #ECF0F1;
+    border: 2px solid gray;
+    margin-left: 112px;
+    margin-top: 30px;
+}
+.text2{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+    padding-top: 19px;
+    padding-left: 110px;
+}
+.text2:last-child{
+    font-size: 14px;
+    padding-top: 7px;
+}
+.text3{
+    font-size: 14px;
+    color: #2D3E50;
+    padding-top: 13px;
+    font-family: 'Lato', sans-serif;
+    padding-left: 18px;
+}
+.Aacc4{
+    margin-top: 195px; ;
+    display: flex;
+    width: 302px;
+    height: 47px;
+    background-color: #ECF0F1;
+    
+}
+.inf{
+    width: 101px;
+}
+.inf1{
+    width: 101px;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 2px solid #1BBC9B;
+}
+.text3#txt1{
+    font-size: 12px;
+    padding-top: 15px;
+}
+.Aacc5{
+    background-color: #FFFFFF;
+    height: 128px;
+}
+.text4{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #2D3E50;
+    padding-top: 20px;
+    padding-left: 16px;
+}
